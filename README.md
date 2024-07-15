@@ -26,5 +26,6 @@ Tableau: Used for creating interactive and insightful visualizations to present 
 # PDF Presentation
 A PDF presentation summarizing the project's key findings and visualizations is also included in the repository. It provides an overview of the analysis and the most important insights derived from the data.
 
+# Contact
 Contributions are welcome! Please open an issue or submit a pull request if you have any suggestions or improvements.
 Gmail: 476comsyu2020rahulvegdani@gmail.com
